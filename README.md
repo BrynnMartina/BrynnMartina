@@ -7,9 +7,9 @@ This project addresses the gap between modern web application threats and outdat
 - [Project Repo](https://github.com/BeaverHealth-Vulnerable-Web-App/BeaverHealth-Vulnerable-Web-App)
 
 <h2>Example Pages:</h2>
-  <h3>Vulnerability Toggle Page</h3>
-  ![Screenshot 2025-04-10 223847](https://github.com/user-attachments/assets/27ed1351-8f30-4534-8b62-a0b882bf8cb1)
+  <h3>Admin Toggle Page</h3>
+  
 
 
   <h3>Add Medical Records Page</h3>
-  ![Screenshot 2025-04-10 223951](https://github.com/user-attachments/assets/c59fc65f-cdca-4e83-972b-8a32cb3d9169)
+
