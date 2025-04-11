@@ -9,7 +9,9 @@ This project addresses the gap between modern web application threats and outdat
 <h2>Example Pages:</h2>
   <h3>Admin Toggle Page</h3>
   
+![Screenshot 2025-04-10 223847](https://github.com/user-attachments/assets/036a036d-2ae7-4e9c-9a78-54ffb1af0179)
 
 
   <h3>Add Medical Records Page</h3>
 
+![Screenshot 2025-04-10 223951](https://github.com/user-attachments/assets/b8f6b2b1-f3a4-4c85-8ed5-e27e453c7de0)
